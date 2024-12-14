@@ -10,6 +10,7 @@ class HbApplicationTests {
 	void contextLoads() {
 		//Test
 		//Test Feature
+		//Test Conflict
 	}
 
 }
